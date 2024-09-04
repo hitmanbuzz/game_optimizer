@@ -1,0 +1,7 @@
+Discord.exe|1
+chrome.exe|0
+msedge.exe|1
+OfficeClickToRun.exe|1
+NVIDIA Web Helper.exe|1
+node.exe|1
+HelpPane.exe|1
