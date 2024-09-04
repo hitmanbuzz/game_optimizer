@@ -3,3 +3,5 @@
 - target.txt
 
 `If you want to have the processes to exit once this program ran is by having 1 after '|' and 0 is for normal processes`
+
+Developer: Moirangthem Henthoiba (18 Years Old)
